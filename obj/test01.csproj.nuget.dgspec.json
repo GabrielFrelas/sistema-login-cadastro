@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\boot\\ProjetosRider\\menuOptions\\test01\\test01.csproj": {}
+    "D:\\boot\\ProjetosRider\\menuOptions\\Test01\\test01.csproj": {}
   },
   "projects": {
-    "D:\\boot\\ProjetosRider\\menuOptions\\test01\\test01.csproj": {
+    "D:\\boot\\ProjetosRider\\menuOptions\\Test01\\test01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\boot\\ProjetosRider\\menuOptions\\test01\\test01.csproj",
+        "projectUniqueName": "D:\\boot\\ProjetosRider\\menuOptions\\Test01\\test01.csproj",
         "projectName": "test01",
-        "projectPath": "D:\\boot\\ProjetosRider\\menuOptions\\test01\\test01.csproj",
+        "projectPath": "D:\\boot\\ProjetosRider\\menuOptions\\Test01\\test01.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\boot\\ProjetosRider\\menuOptions\\test01\\obj\\",
+        "outputPath": "D:\\boot\\ProjetosRider\\menuOptions\\Test01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

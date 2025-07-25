@@ -12,3 +12,4 @@ D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\refint\test01.dll
 D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.pdb
 D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.genruntimeconfig.cache
 D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\ref\test01.dll
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.sourcelink.json
