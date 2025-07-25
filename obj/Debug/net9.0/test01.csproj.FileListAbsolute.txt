@@ -1,0 +1,14 @@
+D:\boot\ProjetosRider\menuOptions\test01\bin\Debug\net9.0\test01.exe
+D:\boot\ProjetosRider\menuOptions\test01\bin\Debug\net9.0\test01.deps.json
+D:\boot\ProjetosRider\menuOptions\test01\bin\Debug\net9.0\test01.runtimeconfig.json
+D:\boot\ProjetosRider\menuOptions\test01\bin\Debug\net9.0\test01.dll
+D:\boot\ProjetosRider\menuOptions\test01\bin\Debug\net9.0\test01.pdb
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.GeneratedMSBuildEditorConfig.editorconfig
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.AssemblyInfoInputs.cache
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.AssemblyInfo.cs
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.csproj.CoreCompileInputs.cache
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.dll
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\refint\test01.dll
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.pdb
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\test01.genruntimeconfig.cache
+D:\boot\ProjetosRider\menuOptions\test01\obj\Debug\net9.0\ref\test01.dll
