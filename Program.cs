@@ -35,7 +35,7 @@ namespace SistemaLoginTxt
                         Console.ReadKey();
                         return;
                     default:
-                        Console.WriteLine("\n❌ Opção inválida! Pressione qualquer tecla.");
+                        Console.WriteLine("\nOpção inválida! Pressione qualquer tecla.");
                         Console.ReadKey();
                         break;
                 }
@@ -59,7 +59,7 @@ namespace SistemaLoginTxt
                 var linhas = File.ReadAllLines(caminho);
                 if (linhas.Any(l => l.Split('|')[0] == user))
                 {
-                    Console.WriteLine("\n⚠️ Usuário já cadastrado!");
+                    Console.WriteLine("\nUsuário já cadastrado!");
                     Console.WriteLine("Pressione qualquer tecla para voltar ao menu");
                     Console.ReadKey();
                     return;
@@ -68,7 +68,7 @@ namespace SistemaLoginTxt
 
             // Salva no arquivo no formato: usuario|senha
             File.AppendAllText(caminho, $"{user}|{senha}\n");
-            Console.WriteLine("\n✅ Usuário cadastrado com sucesso!");
+            Console.WriteLine("\nUsuário cadastrado com sucesso!");
             Console.WriteLine("Pressione qualquer tecla para voltar ao menu");
             Console.ReadKey();
         }
@@ -86,7 +86,7 @@ namespace SistemaLoginTxt
 
             if (!File.Exists(caminho))
             {
-                Console.WriteLine("\n⚠️ Nenhum usuário cadastrado ainda.");
+                Console.WriteLine("\nNenhum usuário cadastrado ainda.");
                 Console.WriteLine("Pressione qualquer tecla para voltar ao menu");
                 Console.ReadKey();
                 return;
@@ -101,11 +101,11 @@ namespace SistemaLoginTxt
 
             if (encontrado)
             {
-                Console.WriteLine("\n✅ Login bem-sucedido!");
+                Console.WriteLine("\nLogin bem-sucedido!");
             }
             else
             {
-                Console.WriteLine("\n❌ Usuário ou senha incorretos.");
+                Console.WriteLine("\nUsuário ou senha incorretos.");
                 Console.WriteLine("Pressione qualquer tecla para voltar ao menu");
             }
             Console.WriteLine("Pressione qualquer tecla para voltar ao menu");
